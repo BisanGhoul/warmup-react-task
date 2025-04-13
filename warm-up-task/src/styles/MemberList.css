@@ -1,0 +1,7 @@
+.list-container ul {
+  list-style-type: none;
+}
+
+ul li + li {
+  margin-top: 0.75rem;
+}
