@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+  padding: 1rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--title-txt-clr);
+}
